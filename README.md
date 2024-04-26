@@ -1,6 +1,6 @@
 # Usher
 
-The necessary packages and their versions are as below:
+This repository contains the artifacts for the system Usher. The necessary packages and their versions are as follows:
 ```
 # Name                    Version                   Build
 _libgcc_mutex             0.1                        main  
@@ -106,3 +106,5 @@ sm_requirement.py and memory_requirements have the codes for calculating the res
 scheduling.py has the code for the scheduling policy.
 
 Other files have the codes for the DL models.
+
+A file can be executed with `python3 filename`
