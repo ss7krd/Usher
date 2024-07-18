@@ -1,6 +1,6 @@
 # Usher
 
-This repository contains the artifacts for the system Usher. The necessary packages and their versions are as follows:
+This repository contains the preliminary codes for the system Usher. The necessary packages and their versions are as follows:
 ```
 # Name                    Version                   Build
 _libgcc_mutex             0.1                        main  
@@ -99,7 +99,6 @@ yarl                      1.6.3            py37h27cfd23_0
 zipp                      3.8.0            py37h06a4308_0  
 zlib                      1.2.12               h7f8727e_2
 ```
-The Graphs folder contains the code to generate the graphs in the paper.
 
 sm_requirement.py and memory_requirements have the codes for calculating the resource requirements.
 
