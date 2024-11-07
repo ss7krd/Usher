@@ -1,6 +1,6 @@
 # Usher
 
-This repository contains the preliminary codes for the system Usher. The necessary packages and their versions are as follows:
+This repository contains the preliminary codes for the system Usher accepted at OSDI 2024. The necessary packages and their versions are as follows:
 ```
 # Name                    Version                   Build
 _libgcc_mutex             0.1                        main  
